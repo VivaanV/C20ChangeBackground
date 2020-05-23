@@ -1,8 +1,8 @@
 // INITIALIZE ALL YOUR VARIABLES
 // Ideally you would create 3 variables. red blue green or r, g, b
-var r = 0;
-var g = 50;
-var b=255;
+var r = 255;
+var g = 0;
+var b=50;
 var circle;
 
 function setup(){
